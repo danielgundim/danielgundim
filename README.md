@@ -14,12 +14,12 @@
 - 🏫 Let´s Code By Ada
 - 📚 Técnologo em redes de Computadores - Fatec
 - 📃 Cerificações:
-    - AWS Solutions Architected Professional
-    - AWS Solutions Architected Associate
-    - AWS Developer Associate
-    - AWS SysOps Associate
-    - Google Cloud Engineer Associate
-    - Azure Fundamentals
+    - AWS Solutions Architected Professional;
+    - AWS Solutions Architected Associate;
+    - AWS Developer Associate;
+    - AWS SysOps Associate;
+    - Google Cloud Engineer Associate;
+    - Azure Fundamentals.
 
 
 ### Ferramentas e Tecnologias

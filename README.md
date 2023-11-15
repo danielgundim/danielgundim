@@ -1,23 +1,22 @@
 # Olá sou o **Daniel Vieira**
 
-## Especialista em Engenharia de Sistemas no Itaú Unbanco e Professor na Let´s Code By Ada 
+## Especialista em Engenharia de Sistemas no Itaú Unbanco e Professor na Ada 
 
 
-### *Compartilho ideias e padrões de pro jetos corporativos. Espero que este perfil possa te ajudar!*
+### *Compartilho ideias e padrões de projetos corporativos. Espero que este perfil possa te ajudar!*
 
-#
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGPdY5MREeB5A/profile-displaybackgroundimage-shrink_350_1400/0/1659655863866?e=1673481600&v=beta&t=wjWEYmirxRvqY6MAQun5hSY-KwY8kGGRn1dmZBrY4aI">
-
-- 👨‍💻 DevOpS Engineer
+- 👨‍💻 Specialist DevOpS Engineer
 - 🏦 Itaú Unibanco
-- 🏫 Let´s Code By Ada
+- 🏫 Ada
 - 📚 Técnologo em redes de Computadores - Fatec
 - 📃 Cerificações:
     - AWS Solutions Architected Professional;
+    - AWS DevOps Professional;
     - AWS Solutions Architected Associate;
     - AWS Developer Associate;
     - AWS SysOps Associate;
+    - Terraform Associate;
     - Google Cloud Engineer Associate;
     - Azure Fundamentals.
 
